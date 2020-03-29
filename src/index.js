@@ -1,6 +1,6 @@
 var isArray = Array.isArray
 
-export default function cc(names) {
+modules.export = function cc(names) {
   var i
   var len
   var tmp = typeof names
