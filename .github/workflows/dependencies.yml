@@ -19,4 +19,4 @@ jobs:
     steps:
       - uses: Marcisbee/dependency-check-action@1.0.1
         with:
-          PATH: "/src"
+          PATH: "/"
